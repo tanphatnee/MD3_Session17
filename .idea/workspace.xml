@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b71b9ee6-b699-40b2-b3e2-10907f769e8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/MD3_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HN_JV230313_AD_NguyenVanTanPhat/src/Exam_Advance_2/ISBNChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson1/Sesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/Sesson10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt1/RandomListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt10/SumElementsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt11/MinElementExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt12/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt2/ReverseListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt3/SortDescendingListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt4/StringListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt5/ShortestWordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt6/SortAscendingListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt7/RemoveEvenNumbersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt8/CopyListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Bt9/RemoveDuplicatesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Th1/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Th1/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Th2/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson10/src/Th2/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson14/src/Bt/Bt1/SortingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson14/src/Th/Th1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson14/src/Th/Th2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson14/src/Th/Th3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt1/Bt1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt1/src/chuýenothanhchu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt2/Bt2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Bt2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/Sesson2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson3/Sesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson3/src/Bt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson3/src/Bt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson4/Sesson4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson4/src/Bt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson4/src/Bt3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson5/Sesson5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson5/src/BtTongHop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson5/src/Checkemail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/ProductManager/ProductManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/Sesson6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Bt1/Bt1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Bt2/Bt2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Bt3/Bt3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Bt4/Bt4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Bt5/Bt5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Bt6/Bt6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Th1/Th1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Th2/Th2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Th3/Th3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson6/src/Th4/Th4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson7/Sesson7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/Sesson8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th1/rikkei/academy/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th1/rikkei/academy/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th1/rikkei/academy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th2/ra/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th2/ra/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th2/ra/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson8/src/Th3/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/Sesson9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/src/rikkei/academy/Mainn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/src/rikkei/academy/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/src/rikkei/academy/animals/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/src/rikkei/academy/animals/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/src/rikkei/academy/edible/IEdible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/src/rikkei/academy/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/src/rikkei/academy/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sesson9/src/rikkei/academy/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Bt1/bussiness/IShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Bt1/bussinessImp/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Bt1/bussinessImp/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Bt1/run/BookManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Bt2/com/example/bt2/Bt2App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Bt2/com/example/bt2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Bt3/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/projectMini.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/src/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/src/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/src/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/src/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/src/run/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectMini/src/service/UserService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2S2a21PEouKsik1ETgI4u2ZYVLJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b71b9ee6-b699-40b2-b3e2-10907f769e8c" name="Changes" comment="" />
+      <created>1688346921916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688346921916</updated>
+      <workItem from="1688346922963" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
